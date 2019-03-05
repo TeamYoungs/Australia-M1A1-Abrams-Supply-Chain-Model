@@ -1,1 +1,2 @@
 # Australia-M1A1-Abrams-Supply-Chain-Model
+#### Project Links: [JIRA](https://jira.boozallencsn.com/browse/MSPA-394) [SharePoint](https://boozallen.sharepoint.com/:p:/r/sites/TeamYoung/_layouts/15/Doc.aspx?sourcedoc=%7B06154ce5-82de-4bf6-86a8-d6adbeb2d91d%7D&action=edit&uid=%7B06154CE5-82DE-4BF6-86A8-D6ADBEB2D91D%7D&ListItemId=10368&ListId=%7B01365C7E-7446-499A-BE97-DF99106CBB20%7D&odsp=1&env=prod)
